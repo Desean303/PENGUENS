@@ -1,0 +1,9 @@
+age = int(input("HOW MANY PENGUINS DO U HAVE?:"))
+if age < 3:
+    print("That's not enough penguins!")
+elif age <=5:
+    print("kinda low on penguins!")
+else:
+    print("Perfect number of penguins!")
+elif age <80:
+    print("YOU'RE going to cause a PENGAPOCALYPSE!")
